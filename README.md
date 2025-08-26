@@ -1,7 +1,7 @@
 Alumni Management System
-
+________________________________________________________________________________________
 A Spring Boot based project for managing alumni, staff, and administrators. The system provides role-based authentication, event/job posting, and alumni interaction with a modern UI theme.
-
+________________________________________________________________________________________
 🚀 Features
 
 👤 User Management – Alumni, Staff, and Admin roles
@@ -15,7 +15,7 @@ A Spring Boot based project for managing alumni, staff, and administrators. The 
 📨 Communication – Alumni can connect via the portal
 
 🎨 UI – Modern design with Royal Green theme
-
+________________________________________________________________________________________
 🛠️ Tech Stack
 
 Backend: Spring Boot, Spring Security, Hibernate
@@ -25,14 +25,14 @@ Frontend: JSP, Bootstrap, Custom CSS
 Database: MySQL
 
 Build Tool: Maven
-
+________________________________________________________________________________________
 📂 Project Structure
 Alumni-Management-System/
    ├── src/                # Java source code
    ├── docs/               # Documentation
    ├── pom.xml             # Maven build file
    └── application.properties
-
+________________________________________________________________________________________
 ⚡ Getting Started
 
 Clone the repo:
