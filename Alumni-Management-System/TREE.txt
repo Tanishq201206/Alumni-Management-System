@@ -1,0 +1,85 @@
+├── HELP.md
+├── mvnw
+├── mvnw.cmd
+├── pom.xml
+└── src/
+    ├── main/
+    │   ├── java/
+    │   │   └── com/
+    │   │       └── alumni/
+    │   │           └── management/
+    │   │               └── system/
+    │   ├── resources/
+    │   │   ├── application.properties
+    │   │   ├── static/
+    │   │   └── templates/
+    │   └── webapp/
+    │       ├── WEB-INF/
+    │       │   ├── basefragments/
+    │       │   │   ├── _footer.jsp
+    │       │   │   └── _header.jsp
+    │       │   ├── bodyfragments/
+    │       │   │   ├── _aboutUs.jsp
+    │       │   │   ├── _admin.jsp
+    │       │   │   ├── _alumni-login.jsp
+    │       │   │   ├── _alumniChangePassword.jsp
+    │       │   │   ├── _alumniForgetPassword.jsp
+    │       │   │   ├── _alumniMyProfile.jsp
+    │       │   │   ├── _alumniRegistration.jsp
+    │       │   │   ├── _applyJob.jsp
+    │       │   │   ├── _applyJobList.jsp
+    │       │   │   ├── _changePassword.jsp
+    │       │   │   ├── _contactUs.jsp
+    │       │   │   ├── _employee.jsp
+    │       │   │   ├── _employeeList.jsp
+    │       │   │   ├── _event.jsp
+    │       │   │   ├── _eventList.jsp
+    │       │   │   ├── _feedBack.jsp
+    │       │   │   ├── _feedBackList.jsp
+    │       │   │   ├── _forgetPassword.jsp
+    │       │   │   ├── _gallary.jsp
+    │       │   │   ├── _gallaryList.jsp
+    │       │   │   ├── _home.jsp
+    │       │   │   ├── _job.jsp
+    │       │   │   ├── _jobList.jsp
+    │       │   │   ├── _login.jsp
+    │       │   │   ├── _myProfile.jsp
+    │       │   │   ├── _participantList.jsp
+    │       │   │   ├── _placement.jsp
+    │       │   │   ├── _placementList.jsp
+    │       │   │   ├── _st-login.jsp
+    │       │   │   ├── _staffChangePassword.jsp
+    │       │   │   ├── _staffForgetPassword.jsp
+    │       │   │   ├── _staffMyProfile.jsp
+    │       │   │   ├── _staffRegistration.jsp
+    │       │   │   ├── _userList.jsp
+    │       │   │   ├── _userRegister.jsp
+    │       │   │   ├── _welcome.jsp
+    │       │   │   └── businessMessage.jsp
+    │       │   ├── layouts/
+    │       │   │   └── classic.jsp
+    │       │   └── tiles.xml
+    │       └── resources/
+    │           ├── docs/
+    │           │   └── alumni_prospectus.pdf
+    │           └── images/
+    │               ├── 1_UMLca0XMj-ScbPiAIrRpxQ.jpeg
+    │               ├── 4
+    │               ├── admindp.jpg
+    │               ├── alumnidp.jpg
+    │               ├── configure-cash-and-bank-management-in-dynamics-365-finance-ops-social.png
+    │               ├── favicon.ico
+    │               ├── opening-bank-account-612x281.jpg
+    │               ├── project-management-skills.jpg.webp
+    │               ├── shutterstock_1150180799.jpg
+    │               ├── slide2.jpg
+    │               ├── slide3.jpg
+    │               ├── slide4.jpg
+    │               ├── slide6.jpg
+    │               └── staffdp.jpg
+    └── test/
+        └── java/
+            └── com/
+                └── alumni/
+                    └── management/
+                        └── system/
