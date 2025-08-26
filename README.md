@@ -26,13 +26,7 @@ Database: MySQL
 
 Build Tool: Maven
 ________________________________________________________________________________________
-📂 Project Structure
-Alumni-Management-System/
-   ├── src/                # Java source code
-   ├── docs/               # Documentation
-   ├── pom.xml             # Maven build file
-   └── application.properties
-________________________________________________________________________________________
+
 ⚡ Getting Started
 
 Clone the repo:
