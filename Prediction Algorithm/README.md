@@ -39,7 +39,7 @@ The model uses a machine learning algorithm such as Logistic Regression / Decisi
 
 The confusion matrix below shows the performance of the prediction model:
 
-![Confusion Matrix](Confusion_Matrix/confusion_matrix.png)
+![Decision Tree Confusion Matrix](Confusion_Matrix/Decision Tree_Confusion_Matrix.png)
 
 **Evaluation Metrics:**
 
