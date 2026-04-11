@@ -85,5 +85,6 @@ The system provides:
 ---
 
 ## 👨‍💻 Author
-
+Tarang Sharma
 Tanishq Singh
+Vidit Raj Jain
