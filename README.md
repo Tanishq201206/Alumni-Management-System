@@ -14,7 +14,7 @@ ________________________________________________________________________________
 
 📨 Communication – Alumni can connect via the portal
 
-🎨 UI – Modern design with Royal Green theme
+🎨 UI – Modern design with Royal Red theme
 ________________________________________________________________________________________
 🛠️ Tech Stack
 
